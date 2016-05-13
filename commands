@@ -1,0 +1,3 @@
+java -cp Chepai.jar;config Monitor 20:35:48:100 54:600 700 100 10.25.19.45
+
+java -cp Chepai.jar;config Twice 20:35 38:100 500 49:100 700 55:400 100 10.25.19.45
