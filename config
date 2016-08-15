@@ -1,2 +1,4 @@
-a=31
-b=40
+win_shift_x_y=[1000,1000]
+btn_tijiao = [2563, 2570]
+top_left = [3007,3054]
+top_left_x = [40393,2028]
